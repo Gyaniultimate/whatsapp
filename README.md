@@ -1,1 +1,1 @@
-<h1>automated whatsapp sender </h1>
+<h1>automated whatsapp text sender </h1>
